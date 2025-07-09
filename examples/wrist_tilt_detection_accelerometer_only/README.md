@@ -1,0 +1,3 @@
+## Wrist tilt detection with accelerometer only
+The wrist tilt detection algorithm also identifies the wrist-tilt gesture but relies solely on accelerometer data. Configurations support both left and right wrists, with parameters for tilt angle, tilt time, and de-tilt time.
+This feature is particularly useful in power-efficient wearable devices, offering a simple and effective way to interact with the screen. Its low power consumption makes it suitable for devices with limited battery capacity.

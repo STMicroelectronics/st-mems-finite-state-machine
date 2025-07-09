@@ -1,0 +1,3 @@
+## Jiggle detection
+The jiggle detection algorithm identifies a shaking motion, often used in wrist-worn devices. It detects when the accelerometer Z-axis is pointing up and the user shakes the device along the Y-axis.
+This feature is ideal for smartwatches and fitness trackers, enabling gesture-based interactions such as dismissing notifications or triggering specific actions. Its intuitive design makes it a valuable addition to wearable technology.

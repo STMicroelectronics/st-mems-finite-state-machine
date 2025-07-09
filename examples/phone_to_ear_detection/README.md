@@ -1,0 +1,3 @@
+## Phone-to-ear detection
+The phone-to-ear detection algorithm identifies when a mobile device is brought close to the user's ear, typically to answer a phone call. Configurable parameters include angular rate thresholds, rotation angles, and accelerometer thresholds.
+This feature is commonly used to automatically turn off the screen during calls, preventing accidental touches and saving battery life. It enhances the usability of mobile devices by providing an intuitive and efficient way to manage calls.

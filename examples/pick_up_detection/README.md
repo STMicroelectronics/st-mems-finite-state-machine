@@ -1,0 +1,3 @@
+## Pick-up detection
+The pick-up detection algorithm recognizes when a device is lifted from a table, often used to activate certain services automatically. Configurable parameters include thresholds for on-table detection, pick-up detection, and associated timing.
+This feature is highly useful in mobile devices to provide quick access to notifications or functionalities, improving user convenience and interaction efficiency.

@@ -1,0 +1,3 @@
+## Flip-down detection
+The flip-down detection algorithm identifies the gesture of flipping a device face-down, typically used to stop a phone call by placing the accelerometer Z-axis downward.
+This functionality is particularly useful in mobile devices to provide users with a quick and intuitive way to manage calls without interacting with the screen. It enhances user convenience and offers a simple, hands-free solution for silencing calls in various scenarios.

@@ -1,0 +1,29 @@
+@relation 'MLC'
+
+@attribute F1_MEAN_ACC_X numeric
+@attribute class {Dummy}
+
+@data
+-0.00641632, Dummy
+-0.00616837, Dummy
+-0.0056839, Dummy
+-0.0415955, Dummy
+0.095459, Dummy
+0.00683975, Dummy
+0.042572, Dummy
+0.059845, Dummy
+0.0520325, Dummy
+0.0368347, Dummy
+0.013298, Dummy
+0.104492, Dummy
+0.0681152, Dummy
+0.071228, Dummy
+0.172241, Dummy
+0.12854, Dummy
+0.0946045, Dummy
+0.0246277, Dummy
+-0.000749111, Dummy
+0.0115128, Dummy
+0.0411072, Dummy
+-0.0166626, Dummy
+0.0701294, Dummy

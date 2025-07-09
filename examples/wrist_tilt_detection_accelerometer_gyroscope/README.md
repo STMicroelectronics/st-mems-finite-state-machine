@@ -1,0 +1,3 @@
+## Wrist tilt detection with accelerometer and gyroscope
+The wrist tilt detection algorithm identifies the wrist-tilt gesture, signaling the user's intention to look at the device screen. It uses both accelerometer and gyroscope data, with separate configurations for left and right wrists. Configurable parameters include angular rate thresholds, rotation angles, and accelerometer thresholds.
+This feature is ideal for smartwatches and fitness trackers, providing an intuitive way to activate the screen without manual input.

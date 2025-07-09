@@ -1,0 +1,3 @@
+## Free-fall detection
+The free-fall detection algorithm identifies when a device is falling using accelerometer data.
+This feature is crucial in applications where device safety is a priority, such as in smartphones, laptops, and industrial equipment. It can trigger protective mechanisms, such as locking hard drives or sending alerts, to minimize damage during a fall. Its simplicity and effectiveness make it a critical component for safeguarding devices.

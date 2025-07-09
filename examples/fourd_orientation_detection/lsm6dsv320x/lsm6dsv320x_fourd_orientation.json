@@ -1,0 +1,81 @@
+{
+  "json_format": {
+    "type": "reg_config",
+    "version": "2.0"
+  },
+  "description": "4D orientation detection",
+  "application": {
+    "name": "Configuration Converter Tool",
+    "version": "1.0"
+  },
+  "sensors": [
+    {
+      "name": ["lsm6dsv320x"],
+      "configuration": [
+        { "type": "write", "address": "0x10", "data": "0x00" },
+        { "type": "write", "address": "0x11", "data": "0x00" },
+        { "type": "write", "address": "0x01", "data": "0x80" },
+        { "type": "write", "address": "0x04", "data": "0x00" },
+        { "type": "write", "address": "0x05", "data": "0x00" },
+        { "type": "write", "address": "0x5F", "data": "0x4B" },
+        { "type": "write", "address": "0x46", "data": "0x01" },
+        { "type": "write", "address": "0x0A", "data": "0x00" },
+        { "type": "write", "address": "0x0B", "data": "0x01" },
+        { "type": "write", "address": "0x0E", "data": "0x00" },
+        { "type": "write", "address": "0x0F", "data": "0x00" },
+        { "type": "write", "address": "0x17", "data": "0x40" },
+        { "type": "write", "address": "0x02", "data": "0x11" },
+        { "type": "write", "address": "0x08", "data": "0x7A" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x01" },
+        { "type": "write", "address": "0x09", "data": "0x01" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x04" },
+        { "type": "write", "address": "0x02", "data": "0x41" },
+        { "type": "write", "address": "0x08", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x91" },
+        { "type": "write", "address": "0x09", "data": "0x10" },
+        { "type": "write", "address": "0x09", "data": "0x16" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x0F" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x66" },
+        { "type": "write", "address": "0x09", "data": "0x3A" },
+        { "type": "write", "address": "0x09", "data": "0x66" },
+        { "type": "write", "address": "0x09", "data": "0x32" },
+        { "type": "write", "address": "0x09", "data": "0xF0" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x0F" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0xEF" },
+        { "type": "write", "address": "0x09", "data": "0x33" },
+        { "type": "write", "address": "0x09", "data": "0x05" },
+        { "type": "write", "address": "0x09", "data": "0x73" },
+        { "type": "write", "address": "0x09", "data": "0x99" },
+        { "type": "write", "address": "0x09", "data": "0x08" },
+        { "type": "write", "address": "0x09", "data": "0x22" },
+        { "type": "write", "address": "0x04", "data": "0x00" },
+        { "type": "write", "address": "0x05", "data": "0x01" },
+        { "type": "write", "address": "0x17", "data": "0x00" },
+        { "type": "write", "address": "0x01", "data": "0x00" },
+        { "type": "write", "address": "0x5E", "data": "0x02" },
+        { "type": "write", "address": "0x17", "data": "0x03" },
+        { "type": "write", "address": "0x10", "data": "0x44" }
+      ],
+      "outputs": [
+        {
+          "name": "FSM1",
+          "core": "FSM",
+          "type": "uint8_t",
+          "len": "1",
+          "reg_addr": "0x4C",
+          "reg_name": "FSM_OUTS1",
+          "results": [
+          ]
+        }
+      ]
+    }
+  ]
+}

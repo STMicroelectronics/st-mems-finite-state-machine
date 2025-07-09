@@ -1,0 +1,3 @@
+## 4D orientation detection
+The 4D orientation detection algorithm determines the orientation of a device—portrait (up or down) or landscape (left or right)—using the accelerometer's X and Y axes.
+This functionality is commonly used in smartphones to adjust screen orientation automatically. It enhances usability by ensuring that the display adapts to the user's viewing angle, making it essential for applications like video playback, gaming, and reading.

@@ -1,0 +1,3 @@
+## Peak tracking
+The peak tracking detection algorithm detects and monitors peak acceleration values in high-g sensor data.
+This feature is crucial in applications involving sudden, high-impact events such as crash detection, drop testing, and shock monitoring. By accurately capturing the highest acceleration peaks, it enables precise event characterization and timely triggering of safety or diagnostic measures. Depending on the full-scale of the high-g sensor, it can address applications ranging from gaming and sport to car crash detection.

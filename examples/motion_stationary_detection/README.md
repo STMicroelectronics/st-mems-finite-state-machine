@@ -1,0 +1,3 @@
+## Motion-stationary detection
+The motion/stationary detection algorithm classifies the state of a device as either in motion or stationary using accelerometer data.
+This feature is widely applicable in fitness trackers, vehicle monitoring systems, and industrial equipment to track activity or inactivity. Its ability to provide real-time state classification enhances the functionality of devices that rely on motion-based data.

@@ -1,0 +1,87 @@
+{
+  "json_format": {
+    "type": "reg_config",
+    "version": "2.0"
+  },
+  "description": "Free-fall detection",
+  "application": {
+    "name": "Configuration Converter Tool",
+    "version": "1.0"
+  },
+  "sensors": [
+    {
+      "name": ["lis2dux12"],
+      "configuration": [
+        { "type": "write", "address": "0x14", "data": "0x00" },
+        { "type": "write", "address": "0x13", "data": "0x10" },
+        { "type": "delay", "data": "5" },
+        { "type": "write", "address": "0x3F", "data": "0x80" },
+        { "type": "write", "address": "0x04", "data": "0x00" },
+        { "type": "write", "address": "0x05", "data": "0x00" },
+        { "type": "write", "address": "0x39", "data": "0x4B" },
+        { "type": "write", "address": "0x1A", "data": "0x01" },
+        { "type": "write", "address": "0x0A", "data": "0x00" },
+        { "type": "write", "address": "0x0B", "data": "0x01" },
+        { "type": "write", "address": "0x0E", "data": "0x00" },
+        { "type": "write", "address": "0x0F", "data": "0x00" },
+        { "type": "write", "address": "0x17", "data": "0x40" },
+        { "type": "write", "address": "0x02", "data": "0x01" },
+        { "type": "write", "address": "0x08", "data": "0x54" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x01" },
+        { "type": "write", "address": "0x09", "data": "0x01" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x02" },
+        { "type": "write", "address": "0x02", "data": "0x21" },
+        { "type": "write", "address": "0x08", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x71" },
+        { "type": "write", "address": "0x09", "data": "0x10" },
+        { "type": "write", "address": "0x09", "data": "0x1C" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x11" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0xCD" },
+        { "type": "write", "address": "0x09", "data": "0x34" },
+        { "type": "write", "address": "0x09", "data": "0xA8" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x01" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0x02" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x09", "data": "0xF5" },
+        { "type": "write", "address": "0x09", "data": "0x77" },
+        { "type": "write", "address": "0x09", "data": "0x99" },
+        { "type": "write", "address": "0x09", "data": "0x12" },
+        { "type": "write", "address": "0x09", "data": "0x66" },
+        { "type": "write", "address": "0x09", "data": "0x53" },
+        { "type": "write", "address": "0x09", "data": "0xC7" },
+        { "type": "write", "address": "0x09", "data": "0x88" },
+        { "type": "write", "address": "0x09", "data": "0x99" },
+        { "type": "write", "address": "0x09", "data": "0x50" },
+        { "type": "write", "address": "0x09", "data": "0x00" },
+        { "type": "write", "address": "0x04", "data": "0x00" },
+        { "type": "write", "address": "0x05", "data": "0x01" },
+        { "type": "write", "address": "0x17", "data": "0x00" },
+        { "type": "write", "address": "0x3F", "data": "0x00" },
+        { "type": "write", "address": "0x1F", "data": "0x01" },
+        { "type": "write", "address": "0x14", "data": "0x33" }
+      ],
+      "outputs": [
+        {
+          "name": "FSM1",
+          "core": "FSM",
+          "type": "uint8_t",
+          "len": "1",
+          "reg_addr": "0x20",
+          "reg_name": "FSM_OUTS1",
+          "results": [
+          ]
+        }
+      ]
+    }
+  ]
+}

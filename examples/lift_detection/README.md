@@ -1,0 +1,3 @@
+## Lift detection
+The lift detection algorithm identifies lift and de-lift gestures, commonly used in laptops and convertible devices to signal the user's intention to interact with the screen. Configurable parameters include lift angle, lift time, and de-lift time.
+This feature is particularly useful for automatically turning the screen on or off, enhancing user convenience and reducing power consumption. It is a critical component for devices that prioritize seamless user interaction.

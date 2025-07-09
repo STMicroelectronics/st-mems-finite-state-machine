@@ -1,0 +1,3 @@
+## Glance detection
+The glance detection algorithm recognizes glance and de-glance gestures, typically used in smartphones to turn the screen on or off automatically. By analyzing low-pass filtered accelerometer data, this feature provides a hands-free way to interact with devices.
+It is particularly useful in scenarios where users need quick, non-intrusive access to notifications or information, enhancing convenience and reducing unnecessary battery consumption.
