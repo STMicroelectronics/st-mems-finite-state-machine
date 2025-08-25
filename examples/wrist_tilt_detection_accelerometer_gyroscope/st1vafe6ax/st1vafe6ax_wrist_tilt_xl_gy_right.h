@@ -325,7 +325,7 @@ static const struct mems_conf_op st1vafe6ax_wrist_tilt_xl_gy_right_conf_0[] = {
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x10, .data = 0x45 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x11, .data = 0x55 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x01, .data = 0x80 },
-    { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x17, .data = 0x80 },
+    { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x17, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x04, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x05, .data = 0x11 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x02, .data = 0x01 },

@@ -294,7 +294,7 @@ static const struct mems_conf_op lis2dux12_wrist_navigation_conf_0[] = {
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x09, .data = 0x22 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x04, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x05, .data = 0x01 },
-    { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x17, .data = 0x80 },
+    { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x17, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x3F, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x3F, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x1F, .data = 0x01 },
