@@ -149,7 +149,7 @@ static const char *const st1vafe3bx_wrist_navigation_date = NULL;
 /* Sensor names */
 
 static const char *const st1vafe3bx_wrist_navigation_names_0[] = {
-    "st1vafe3bx"
+    "ST1VAFE3BX"
 };
 
 static const struct mems_conf_name_list st1vafe3bx_wrist_navigation_name_lists[ST1VAFE3BX_WRIST_NAVIGATION_SENSORS_NUM] = {

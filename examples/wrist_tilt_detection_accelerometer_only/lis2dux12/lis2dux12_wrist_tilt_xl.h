@@ -149,7 +149,7 @@ static const char *const lis2dux12_wrist_tilt_xl_date = NULL;
 /* Sensor names */
 
 static const char *const lis2dux12_wrist_tilt_xl_names_0[] = {
-    "lis2dux12"
+    "LIS2DUX12"
 };
 
 static const struct mems_conf_name_list lis2dux12_wrist_tilt_xl_name_lists[LIS2DUX12_WRIST_TILT_XL_SENSORS_NUM] = {

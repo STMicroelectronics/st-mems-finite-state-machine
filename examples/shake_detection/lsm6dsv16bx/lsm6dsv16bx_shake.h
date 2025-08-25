@@ -149,7 +149,7 @@ static const char *const lsm6dsv16bx_shake_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dsv16bx_shake_names_0[] = {
-    "lsm6dsv16bx"
+    "LSM6DSV16BX"
 };
 
 static const struct mems_conf_name_list lsm6dsv16bx_shake_name_lists[LSM6DSV16BX_SHAKE_SENSORS_NUM] = {

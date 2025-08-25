@@ -149,7 +149,7 @@ static const char *const lis2dux12_jiggle_date = NULL;
 /* Sensor names */
 
 static const char *const lis2dux12_jiggle_names_0[] = {
-    "lis2dux12"
+    "LIS2DUX12"
 };
 
 static const struct mems_conf_name_list lis2dux12_jiggle_name_lists[LIS2DUX12_JIGGLE_SENSORS_NUM] = {

@@ -149,7 +149,7 @@ static const char *const lsm6dsox_wrist_navigation_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dsox_wrist_navigation_names_0[] = {
-    "lsm6dsox"
+    "LSM6DSOX"
 };
 
 static const struct mems_conf_name_list lsm6dsox_wrist_navigation_name_lists[LSM6DSOX_WRIST_NAVIGATION_SENSORS_NUM] = {

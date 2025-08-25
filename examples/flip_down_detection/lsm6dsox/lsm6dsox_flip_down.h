@@ -149,7 +149,7 @@ static const char *const lsm6dsox_flip_down_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dsox_flip_down_names_0[] = {
-    "lsm6dsox"
+    "LSM6DSOX"
 };
 
 static const struct mems_conf_name_list lsm6dsox_flip_down_name_lists[LSM6DSOX_FLIP_DOWN_SENSORS_NUM] = {

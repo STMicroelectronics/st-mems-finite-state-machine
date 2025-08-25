@@ -10,7 +10,7 @@
   },
   "sensors": [
     {
-      "name": ["iis2dulpx"],
+      "name": ["IIS2DULPX"],
       "configuration": [
         { "type": "write", "address": "0x14", "data": "0x00" },
         { "type": "write", "address": "0x13", "data": "0x10" },

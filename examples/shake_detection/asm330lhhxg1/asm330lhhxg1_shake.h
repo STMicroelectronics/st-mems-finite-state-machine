@@ -149,7 +149,7 @@ static const char *const asm330lhhxg1_shake_date = NULL;
 /* Sensor names */
 
 static const char *const asm330lhhxg1_shake_names_0[] = {
-    "asm330lhhxg1"
+    "ASM330LHHXG1"
 };
 
 static const struct mems_conf_name_list asm330lhhxg1_shake_name_lists[ASM330LHHXG1_SHAKE_SENSORS_NUM] = {

@@ -149,7 +149,7 @@ static const char *const lsm6dsv_phone_to_ear_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dsv_phone_to_ear_names_0[] = {
-    "lsm6dsv"
+    "LSM6DSV"
 };
 
 static const struct mems_conf_name_list lsm6dsv_phone_to_ear_name_lists[LSM6DSV_PHONE_TO_EAR_SENSORS_NUM] = {

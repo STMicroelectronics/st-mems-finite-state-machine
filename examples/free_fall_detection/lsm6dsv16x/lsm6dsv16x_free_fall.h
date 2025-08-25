@@ -149,7 +149,7 @@ static const char *const lsm6dsv16x_free_fall_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dsv16x_free_fall_names_0[] = {
-    "lsm6dsv16x"
+    "LSM6DSV16X"
 };
 
 static const struct mems_conf_name_list lsm6dsv16x_free_fall_name_lists[LSM6DSV16X_FREE_FALL_SENSORS_NUM] = {

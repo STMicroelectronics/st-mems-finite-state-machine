@@ -149,7 +149,7 @@ static const char *const ism330bx_free_fall_date = NULL;
 /* Sensor names */
 
 static const char *const ism330bx_free_fall_names_0[] = {
-    "ism330bx"
+    "ISM330BX"
 };
 
 static const struct mems_conf_name_list ism330bx_free_fall_name_lists[ISM330BX_FREE_FALL_SENSORS_NUM] = {

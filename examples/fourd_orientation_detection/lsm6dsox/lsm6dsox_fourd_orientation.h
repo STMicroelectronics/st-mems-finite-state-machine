@@ -149,7 +149,7 @@ static const char *const lsm6dsox_fourd_orientation_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dsox_fourd_orientation_names_0[] = {
-    "lsm6dsox"
+    "LSM6DSOX"
 };
 
 static const struct mems_conf_name_list lsm6dsox_fourd_orientation_name_lists[LSM6DSOX_FOURD_ORIENTATION_SENSORS_NUM] = {

@@ -149,7 +149,7 @@ static const char *const lsm6dso32_shake_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dso32_shake_names_0[] = {
-    "lsm6dso32"
+    "LSM6DSO32"
 };
 
 static const struct mems_conf_name_list lsm6dso32_shake_name_lists[LSM6DSO32_SHAKE_SENSORS_NUM] = {

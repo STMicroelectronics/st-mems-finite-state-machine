@@ -149,7 +149,7 @@ static const char *const asm330lhhx_motion_stationary_date = NULL;
 /* Sensor names */
 
 static const char *const asm330lhhx_motion_stationary_names_0[] = {
-    "asm330lhhx"
+    "ASM330LHHX"
 };
 
 static const struct mems_conf_name_list asm330lhhx_motion_stationary_name_lists[ASM330LHHX_MOTION_STATIONARY_SENSORS_NUM] = {

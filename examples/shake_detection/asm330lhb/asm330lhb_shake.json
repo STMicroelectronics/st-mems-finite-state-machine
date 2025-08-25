@@ -10,7 +10,7 @@
   },
   "sensors": [
     {
-      "name": ["asm330lhb"],
+      "name": ["ASM330LHB"],
       "configuration": [
         { "type": "write", "address": "0x01", "data": "0x80" },
         { "type": "write", "address": "0x04", "data": "0x00" },

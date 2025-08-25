@@ -149,7 +149,7 @@ static const char *const lis2duxs12_fourd_orientation_date = NULL;
 /* Sensor names */
 
 static const char *const lis2duxs12_fourd_orientation_names_0[] = {
-    "lis2duxs12"
+    "LIS2DUXS12"
 };
 
 static const struct mems_conf_name_list lis2duxs12_fourd_orientation_name_lists[LIS2DUXS12_FOURD_ORIENTATION_SENSORS_NUM] = {

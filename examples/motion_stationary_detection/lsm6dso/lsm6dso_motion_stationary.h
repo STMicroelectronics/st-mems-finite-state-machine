@@ -149,7 +149,7 @@ static const char *const lsm6dso_motion_stationary_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dso_motion_stationary_names_0[] = {
-    "lsm6dso"
+    "LSM6DSO"
 };
 
 static const struct mems_conf_name_list lsm6dso_motion_stationary_name_lists[LSM6DSO_MOTION_STATIONARY_SENSORS_NUM] = {

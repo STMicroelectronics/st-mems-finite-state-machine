@@ -149,7 +149,7 @@ static const char *const iis2dulpx_free_fall_date = NULL;
 /* Sensor names */
 
 static const char *const iis2dulpx_free_fall_names_0[] = {
-    "iis2dulpx"
+    "IIS2DULPX"
 };
 
 static const struct mems_conf_name_list iis2dulpx_free_fall_name_lists[IIS2DULPX_FREE_FALL_SENSORS_NUM] = {

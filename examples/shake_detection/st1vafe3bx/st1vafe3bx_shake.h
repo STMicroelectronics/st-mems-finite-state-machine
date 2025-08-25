@@ -149,7 +149,7 @@ static const char *const st1vafe3bx_shake_date = NULL;
 /* Sensor names */
 
 static const char *const st1vafe3bx_shake_names_0[] = {
-    "st1vafe3bx"
+    "ST1VAFE3BX"
 };
 
 static const struct mems_conf_name_list st1vafe3bx_shake_name_lists[ST1VAFE3BX_SHAKE_SENSORS_NUM] = {

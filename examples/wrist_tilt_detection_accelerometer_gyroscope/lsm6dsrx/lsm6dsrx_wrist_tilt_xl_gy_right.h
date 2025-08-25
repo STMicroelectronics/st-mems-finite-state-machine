@@ -149,7 +149,7 @@ static const char *const lsm6dsrx_wrist_tilt_xl_gy_right_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dsrx_wrist_tilt_xl_gy_right_names_0[] = {
-    "lsm6dsrx"
+    "LSM6DSRX"
 };
 
 static const struct mems_conf_name_list lsm6dsrx_wrist_tilt_xl_gy_right_name_lists[LSM6DSRX_WRIST_TILT_XL_GY_RIGHT_SENSORS_NUM] = {

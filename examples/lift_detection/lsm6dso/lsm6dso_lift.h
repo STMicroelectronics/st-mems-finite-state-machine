@@ -149,7 +149,7 @@ static const char *const lsm6dso_lift_date = NULL;
 /* Sensor names */
 
 static const char *const lsm6dso_lift_names_0[] = {
-    "lsm6dso"
+    "LSM6DSO"
 };
 
 static const struct mems_conf_name_list lsm6dso_lift_name_lists[LSM6DSO_LIFT_SENSORS_NUM] = {

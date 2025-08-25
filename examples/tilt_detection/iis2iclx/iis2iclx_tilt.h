@@ -149,7 +149,7 @@ static const char *const iis2iclx_tilt_date = NULL;
 /* Sensor names */
 
 static const char *const iis2iclx_tilt_names_0[] = {
-    "iis2iclx"
+    "IIS2ICLX"
 };
 
 static const struct mems_conf_name_list iis2iclx_tilt_name_lists[IIS2ICLX_TILT_SENSORS_NUM] = {
