@@ -79,6 +79,14 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [fourd_orientation_detection](./fourd_orientation_detection/ism330dhcx)
 	* [free_fall_detection](./free_fall_detection/ism330dhcx)
 	* [motion_stationary_detection](./motion_stationary_detection/ism330dhcx)
+* ISM6HG256X
+	* [fourd_orientation_detection](./fourd_orientation_detection/ism6hg256x)
+	* [free_fall_detection](./free_fall_detection/ism6hg256x)
+	* [lift_detection](./lift_detection/ism6hg256x)
+	* [motion_stationary_detection](./motion_stationary_detection/ism6hg256x)
+	* [peak_tracking](./peak_tracking/ism6hg256x)
+	* [pick_up_detection](./pick_up_detection/ism6hg256x)
+	* [shake_detection](./shake_detection/ism6hg256x)
 * LIS2DUX12
 	* [flip_down_detection](./flip_down_detection/lis2dux12)
 	* [flip_up_detection](./flip_up_detection/lis2dux12)
