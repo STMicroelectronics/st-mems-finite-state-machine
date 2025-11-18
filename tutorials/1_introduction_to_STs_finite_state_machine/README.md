@@ -178,7 +178,7 @@ Since the free-fall detector works as expected, we can save it in a JavaScript O
 
 1. Go back to *Configuration* tab.
 2. Click on *Save Device Configuration* button.
-3. Save it to the PC (e.g., *fsm_free_fall.json*). 
+3. Save it to the PC (e.g., *fsm_free_fall.json*).
 
 The **JSON** is a text file with a sequence of register addresses and corresponding values. It contains the full sensor configuration, including of course the FSM configuration and can be utilized in many of the tools included in MEMS Studio (i.e., Algobuilder and Sensor Evaluation) and can be converted to a header *.h* files to be conveniently included in C projects utilizing the Configuration Converter tool found in the Advanced features tab.
 
