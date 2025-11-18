@@ -1,0 +1,3 @@
+## Wrist navigation
+The wrist navigation algorithm supports four distinct movements (push-down, pivot-up, flick-out, and flick-in) commonly used in smartwatches to navigate menus.
+These gestures provide an intuitive and hands-free way to interact with wearable devices, enhancing user experience and accessibility. By enabling seamless navigation, this feature is essential for smartwatches and other wrist-worn devices.
