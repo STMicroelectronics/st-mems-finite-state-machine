@@ -162,7 +162,7 @@ static const struct mems_conf_op lsm6dsrx_free_fall_detection_conf_0[] = {
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x01, .data = 0x80 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x04, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x05, .data = 0x00 },
-    { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x5F, .data = 0x0A },
+    { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x5F, .data = 0x4B },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x46, .data = 0x01 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x47, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x0A, .data = 0x00 },

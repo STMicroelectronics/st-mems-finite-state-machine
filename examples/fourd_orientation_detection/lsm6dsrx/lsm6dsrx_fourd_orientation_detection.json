@@ -15,7 +15,7 @@
         { "type": "write", "address": "0x01", "data": "0x80" },
         { "type": "write", "address": "0x04", "data": "0x00" },
         { "type": "write", "address": "0x05", "data": "0x00" },
-        { "type": "write", "address": "0x5F", "data": "0x0A" },
+        { "type": "write", "address": "0x5F", "data": "0x4B" },
         { "type": "write", "address": "0x46", "data": "0x01" },
         { "type": "write", "address": "0x47", "data": "0x00" },
         { "type": "write", "address": "0x0A", "data": "0x00" },

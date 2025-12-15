@@ -165,7 +165,7 @@ static const struct mems_conf_op st1vafe3bx_lift_detection_conf_0[] = {
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x3F, .data = 0x80 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x04, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x05, .data = 0x00 },
-    { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x39, .data = 0x4B },
+    { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x39, .data = 0x48 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x1A, .data = 0x01 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x0A, .data = 0x00 },
     { .type = MEMS_CONF_OP_TYPE_WRITE, .address = 0x0B, .data = 0x01 },
