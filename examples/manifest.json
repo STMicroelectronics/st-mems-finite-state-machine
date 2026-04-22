@@ -349,6 +349,18 @@
 			"name": "LIS2DUX12",
 			"examples": [
 				{
+					"name": "E-cigarette",
+					"path": "./ecigarette/lis2dux12",
+					"readme": "./ecigarette/lis2dux12/README.md",
+					"application_readme": "./ecigarette/README.md",
+					"json_configurations": [
+						"./ecigarette/lis2dux12/lis2dux12_ecigarette.json"
+					],
+					"c_header_file_configurations": [
+						"./ecigarette/lis2dux12/lis2dux12_ecigarette.h"
+					]
+				},
+				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lis2dux12",
 					"readme": "./flip_down_detection/lis2dux12/README.md",

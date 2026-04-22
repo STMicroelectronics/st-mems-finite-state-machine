@@ -88,6 +88,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [pick_up_detection](./pick_up_detection/ism6hg256x)
 	* [shake_detection](./shake_detection/ism6hg256x)
 * LIS2DUX12
+	* [ecigarette](./ecigarette/lis2dux12)
 	* [flip_down_detection](./flip_down_detection/lis2dux12)
 	* [flip_up_detection](./flip_up_detection/lis2dux12)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lis2dux12)
