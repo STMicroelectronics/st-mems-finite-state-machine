@@ -164,7 +164,7 @@
           "results": [
           ]
         },
-		{
+    {
           "name": "FSM2",
           "core": "FSM",
           "type": "uint8_t",
@@ -174,7 +174,7 @@
           "results": [
           ]
         },
-		{
+    {
           "name": "FSM3",
           "core": "FSM",
           "type": "uint8_t",
@@ -184,7 +184,7 @@
           "results": [
           ]
         },
-		{
+    {
           "name": "FSM4",
           "core": "FSM",
           "type": "uint8_t",
