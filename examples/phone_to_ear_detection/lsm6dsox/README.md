@@ -1,6 +1,10 @@
 ## 1 - Introduction
 
-This Finite State Machine (FSM) example implements the *phone-to-ear* gesture typically used in mobile devices to detect the device approaching the user's ear when answering a phone call. It is typically used to automatically turn off the device screen. The Machine Learning Core is used to low-pass filter acceleration data with 1 Hz cutoff frequency.
+This Finite State Machine (FSM) example implements the *phone-to-ear* gesture typically used in mobile devices to detect the device approaching the user's ear when answering a phone call. It is typically used to automatically turn off the device screen.
+
+The Machine Learning Core (MLC) is used to low-pass filter acceleration data with 1 Hz cutoff frequency.
+
+The output of the MLC is used as input to the FSM.
 
 The FSM processes data coming from both the accelerometer and gyroscope, configured in low-power mode at 26 Hz.
 

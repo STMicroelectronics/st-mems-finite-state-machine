@@ -1,6 +1,10 @@
 ## 1 - Introduction
 
-This Finite State Machine (FSM) example implements the *wrist-tilt* gesture typically used in wrist worn devices to signal the intention of the user to look at the device screen. It is typically used to automatically turn on the device screen. The Machine Learning Core is used to low-pass filter acceleration data with 1 Hz cutoff frequency.
+This Finite State Machine (FSM) example implements the *wrist-tilt* gesture typically used in wrist worn devices to signal the intention of the user to look at the device screen. It is typically used to automatically turn on the device screen.
+
+The Machine Learning Core (MLC) is used to low-pass filter acceleration data with 1 Hz cutoff frequency.
+
+The output of the MLC is used as input to the FSM.
 
 The FSM/MLC process data coming from accelerometer, configured in ultra low-power mode at 25 Hz.
 
