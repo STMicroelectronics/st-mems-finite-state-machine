@@ -30,16 +30,16 @@ extern "C" {
 
 /*
  * MEMS_CONF_SHARED_TYPES format supports the following operations:
- * - MEMS_CONF_OP_TYPE_TYPE_READ: read the register at the location specified
+ * - MEMS_CONF_OP_TYPE_READ: read the register at the location specified
  *   by the "address" field ("data" field is ignored)
- * - MEMS_CONF_OP_TYPE_TYPE_WRITE: write the value specified by the "data"
+ * - MEMS_CONF_OP_TYPE_WRITE: write the value specified by the "data"
  *   field at the location specified by the "address" field
- * - MEMS_CONF_OP_TYPE_TYPE_DELAY: wait the number of milliseconds specified by
+ * - MEMS_CONF_OP_TYPE_DELAY: wait the number of milliseconds specified by
  *   the "data" field ("address" field is ignored)
- * - MEMS_CONF_OP_TYPE_TYPE_POLL_SET: poll the register at the location
+ * - MEMS_CONF_OP_TYPE_POLL_SET: poll the register at the location
  *   specified by the "address" field until all the bits identified by the mask
  *   specified by the "data" field are set to 1
- * - MEMS_CONF_OP_TYPE_TYPE_POLL_RESET: poll the register at the location
+ * - MEMS_CONF_OP_TYPE_POLL_RESET: poll the register at the location
  *   specified by the "address" field until all the bits identified by the mask
  *   specified by the "data" field are reset to 0
  */
