@@ -21,11 +21,13 @@ Any orientation.
 
 ## 3 - Finite State Machine output values
 
-None.
+- FSM_OUTS1 register values
+  - 01h = Shock event has started
+  - 00h = Shock event has ended
 
 ## 4 - Interrupts
 
-The configuration generates an interrupt on INT1 pin when the *Peak tracking* stores the high-g accelerometer peak value in FIFO.
+The configuration generates two interrupts, one reporting that the shock event has started and one reporting that the shock event has ended. When the first interrupt is generated, the FSM_OUTS1 register is written to 01h. When the second interrupt is generated, the FSM_OUTS1 register is written back to 00h, and the peak tracking hardware block stores the high-g accelerometer peak value in FIFO.
 
 ------
 
