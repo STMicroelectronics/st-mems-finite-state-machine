@@ -313,7 +313,37 @@ static const struct mems_conf_output st1vafe6ax_wrist_navigation_outputs_0[] = {
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
         .reg_addr = 0x4C,
-        .reg_name = "OUTS1",
+        .reg_name = "FSM_OUTS1",
+        .num_results = 0,
+        .results = NULL
+    },
+    {
+        .name = "FSM2",
+        .core = MEMS_CONF_OUTPUT_CORE_FSM,
+        .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
+        .len = 1,
+        .reg_addr = 0x4D,
+        .reg_name = "FSM_OUTS2",
+        .num_results = 0,
+        .results = NULL
+    },
+    {
+        .name = "FSM3",
+        .core = MEMS_CONF_OUTPUT_CORE_FSM,
+        .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
+        .len = 1,
+        .reg_addr = 0x4E,
+        .reg_name = "FSM_OUTS3",
+        .num_results = 0,
+        .results = NULL
+    },
+    {
+        .name = "FSM4",
+        .core = MEMS_CONF_OUTPUT_CORE_FSM,
+        .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
+        .len = 1,
+        .reg_addr = 0x4F,
+        .reg_name = "FSM_OUTS4",
         .num_results = 0,
         .results = NULL
     }
