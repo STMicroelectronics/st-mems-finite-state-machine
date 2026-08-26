@@ -251,7 +251,7 @@ static const struct mems_conf_op_list ism6hg256x_peak_tracking_confs[ISM6HG256X_
 
 static const struct mems_conf_output ism6hg256x_peak_tracking_outputs_0[] = {
     {
-        .name = "FSM1 output",
+        .name = "FSM1",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,

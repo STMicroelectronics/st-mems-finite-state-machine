@@ -93,7 +93,7 @@
       ],
       "outputs": [
         {
-          "name": "FSM1 output",
+          "name": "FSM1",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",

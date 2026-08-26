@@ -528,7 +528,7 @@
       ],
       "outputs": [
         {
-          "name": "Categorical output",
+          "name": "MLC1",
           "core": "MLC",
           "type": "uint8_t",
           "len": "1",
@@ -540,7 +540,7 @@
           ]
         },
         {
-          "name": "Categorical output",
+          "name": "MLC2",
           "core": "MLC",
           "type": "uint8_t",
           "len": "1",
@@ -552,7 +552,7 @@
           ]
         },
         {
-          "name": "Categorical output",
+          "name": "MLC3",
           "core": "MLC",
           "type": "uint8_t",
           "len": "1",
@@ -564,7 +564,7 @@
           ]
         },
         {
-          "name": "Categorical output",
+          "name": "MLC4",
           "core": "MLC",
           "type": "uint8_t",
           "len": "1",
@@ -576,7 +576,7 @@
           ]
         },
         {
-          "name": "FSM1 output",
+          "name": "FSM1",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",
@@ -586,7 +586,7 @@
           ]
         },
         {
-          "name": "FSM2 output",
+          "name": "FSM2",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",
@@ -596,7 +596,7 @@
           ]
         },
         {
-          "name": "FSM3 output",
+          "name": "FSM3",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",
@@ -606,7 +606,7 @@
           ]
         },
         {
-          "name": "FSM4 output",
+          "name": "FSM4",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",
@@ -616,7 +616,7 @@
           ]
         },
         {
-          "name": "FSM5 output",
+          "name": "FSM5",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",
@@ -626,7 +626,7 @@
           ]
         },
         {
-          "name": "FSM6 output",
+          "name": "FSM6",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",
@@ -636,7 +636,7 @@
           ]
         },
         {
-          "name": "FSM7 output",
+          "name": "FSM7",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",
@@ -646,7 +646,7 @@
           ]
         },
         {
-          "name": "FSM8 output",
+          "name": "FSM8",
           "core": "FSM",
           "type": "uint8_t",
           "len": "1",

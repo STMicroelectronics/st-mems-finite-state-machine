@@ -702,7 +702,7 @@ static const struct mems_conf_result lis2dux12_ecigarette_results_0_3[] = {
 
 static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
     {
-        .name = "Categorical output",
+        .name = "MLC1",
         .core = MEMS_CONF_OUTPUT_CORE_MLC,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -712,7 +712,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = lis2dux12_ecigarette_results_0_0
     },
     {
-        .name = "Categorical output",
+        .name = "MLC2",
         .core = MEMS_CONF_OUTPUT_CORE_MLC,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -722,7 +722,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = lis2dux12_ecigarette_results_0_1
     },
     {
-        .name = "Categorical output",
+        .name = "MLC3",
         .core = MEMS_CONF_OUTPUT_CORE_MLC,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -732,7 +732,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = lis2dux12_ecigarette_results_0_2
     },
     {
-        .name = "Categorical output",
+        .name = "MLC4",
         .core = MEMS_CONF_OUTPUT_CORE_MLC,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -742,7 +742,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = lis2dux12_ecigarette_results_0_3
     },
     {
-        .name = "FSM1 output",
+        .name = "FSM1",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -752,7 +752,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = NULL
     },
     {
-        .name = "FSM2 output",
+        .name = "FSM2",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -762,7 +762,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = NULL
     },
     {
-        .name = "FSM3 output",
+        .name = "FSM3",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -772,7 +772,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = NULL
     },
     {
-        .name = "FSM4 output",
+        .name = "FSM4",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -782,7 +782,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = NULL
     },
     {
-        .name = "FSM5 output",
+        .name = "FSM5",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -792,7 +792,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = NULL
     },
     {
-        .name = "FSM6 output",
+        .name = "FSM6",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -802,7 +802,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = NULL
     },
     {
-        .name = "FSM7 output",
+        .name = "FSM7",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
@@ -812,7 +812,7 @@ static const struct mems_conf_output lis2dux12_ecigarette_outputs_0[] = {
         .results = NULL
     },
     {
-        .name = "FSM8 output",
+        .name = "FSM8",
         .core = MEMS_CONF_OUTPUT_CORE_FSM,
         .type = MEMS_CONF_OUTPUT_TYPE_UINT8_T,
         .len = 1,
