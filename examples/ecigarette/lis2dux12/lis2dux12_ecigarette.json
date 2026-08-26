@@ -4,10 +4,6 @@
     "version": "2.0"
   },
   "description": "E-cigarette",
-  "application": {
-    "name": "MLC Tool",
-    "version": "2.4.4"
-  },
   "sensors": [
     {
       "name": [ "LIS2DUX12" ],

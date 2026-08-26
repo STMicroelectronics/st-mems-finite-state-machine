@@ -140,8 +140,8 @@ static const char *const lsm6dsr_free_fall_detection_format_version = "2.0";
 static const char *const lsm6dsr_free_fall_detection_description = "Free-fall detection";
 
 static const struct mems_conf_application lsm6dsr_free_fall_detection_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lsm6dsr_free_fall_detection_date = NULL;

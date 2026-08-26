@@ -140,8 +140,8 @@ static const char *const ism330bx_fourd_orientation_detection_format_version = "
 static const char *const ism330bx_fourd_orientation_detection_description = "4D orientation detection";
 
 static const struct mems_conf_application ism330bx_fourd_orientation_detection_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const ism330bx_fourd_orientation_detection_date = NULL;

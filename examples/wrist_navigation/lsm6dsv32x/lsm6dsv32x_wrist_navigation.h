@@ -140,8 +140,8 @@ static const char *const lsm6dsv32x_wrist_navigation_format_version = "2.0";
 static const char *const lsm6dsv32x_wrist_navigation_description = "Wrist navigation";
 
 static const struct mems_conf_application lsm6dsv32x_wrist_navigation_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lsm6dsv32x_wrist_navigation_date = NULL;

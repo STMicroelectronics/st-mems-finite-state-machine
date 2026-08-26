@@ -4,10 +4,6 @@
     "version": "2.0"
   },
   "description": "Peak tracking",
-  "application": {
-    "name": "Configuration Converter Tool",
-    "version": "1.0"
-  },
   "sensors": [
     {
       "name": ["ISM6HG256X"],

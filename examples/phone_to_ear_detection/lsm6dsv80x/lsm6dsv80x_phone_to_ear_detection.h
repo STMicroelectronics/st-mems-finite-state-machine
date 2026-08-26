@@ -140,8 +140,8 @@ static const char *const lsm6dsv80x_phone_to_ear_detection_format_version = "2.0
 static const char *const lsm6dsv80x_phone_to_ear_detection_description = "Phone-to-ear detection";
 
 static const struct mems_conf_application lsm6dsv80x_phone_to_ear_detection_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lsm6dsv80x_phone_to_ear_detection_date = NULL;

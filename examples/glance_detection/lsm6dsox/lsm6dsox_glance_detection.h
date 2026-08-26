@@ -140,8 +140,8 @@ static const char *const lsm6dsox_glance_detection_format_version = "2.0";
 static const char *const lsm6dsox_glance_detection_description = "Glance detection";
 
 static const struct mems_conf_application lsm6dsox_glance_detection_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lsm6dsox_glance_detection_date = NULL;

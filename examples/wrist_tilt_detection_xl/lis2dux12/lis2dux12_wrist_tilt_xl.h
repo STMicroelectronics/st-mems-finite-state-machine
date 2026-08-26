@@ -140,8 +140,8 @@ static const char *const lis2dux12_wrist_tilt_xl_format_version = "2.0";
 static const char *const lis2dux12_wrist_tilt_xl_description = "Wrist tilt detection with accelerometer only";
 
 static const struct mems_conf_application lis2dux12_wrist_tilt_xl_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lis2dux12_wrist_tilt_xl_date = NULL;

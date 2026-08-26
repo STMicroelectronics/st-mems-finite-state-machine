@@ -4,10 +4,6 @@
     "version": "2.0"
   },
   "description": "Wrist tilt detection with accelerometer and gyroscope (right)",
-  "application": {
-    "name": "Configuration Converter Tool",
-    "version": "1.0"
-  },
   "sensors": [
     {
       "name": ["LSM6DSV32X"],

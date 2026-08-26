@@ -140,8 +140,8 @@ static const char *const lsm6dso_wrist_tilt_xl_gy_left_format_version = "2.0";
 static const char *const lsm6dso_wrist_tilt_xl_gy_left_description = "Wrist tilt detection with accelerometer and gyroscope (left)";
 
 static const struct mems_conf_application lsm6dso_wrist_tilt_xl_gy_left_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lsm6dso_wrist_tilt_xl_gy_left_date = NULL;

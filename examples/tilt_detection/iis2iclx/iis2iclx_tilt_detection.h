@@ -140,8 +140,8 @@ static const char *const iis2iclx_tilt_detection_format_version = "2.0";
 static const char *const iis2iclx_tilt_detection_description = "Tilt detection";
 
 static const struct mems_conf_application iis2iclx_tilt_detection_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const iis2iclx_tilt_detection_date = NULL;

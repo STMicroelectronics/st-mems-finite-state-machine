@@ -140,8 +140,8 @@ static const char *const lsm6dsv16bx_motion_stationary_detection_format_version 
 static const char *const lsm6dsv16bx_motion_stationary_detection_description = "Motion-stationary detection";
 
 static const struct mems_conf_application lsm6dsv16bx_motion_stationary_detection_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lsm6dsv16bx_motion_stationary_detection_date = NULL;

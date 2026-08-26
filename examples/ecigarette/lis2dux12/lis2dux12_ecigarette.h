@@ -140,8 +140,8 @@ static const char *const lis2dux12_ecigarette_format_version = "2.0";
 static const char *const lis2dux12_ecigarette_description = "E-cigarette";
 
 static const struct mems_conf_application lis2dux12_ecigarette_application = {
-    .name = "MLC Tool",
-    .version = "2.4.4"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lis2dux12_ecigarette_date = NULL;

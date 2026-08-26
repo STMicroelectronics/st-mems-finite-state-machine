@@ -140,8 +140,8 @@ static const char *const st1vafe3bx_flip_up_detection_format_version = "2.0";
 static const char *const st1vafe3bx_flip_up_detection_description = "Flip-up detection";
 
 static const struct mems_conf_application st1vafe3bx_flip_up_detection_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const st1vafe3bx_flip_up_detection_date = NULL;

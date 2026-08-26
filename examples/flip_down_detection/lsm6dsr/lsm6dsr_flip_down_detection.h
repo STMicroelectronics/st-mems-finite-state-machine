@@ -140,8 +140,8 @@ static const char *const lsm6dsr_flip_down_detection_format_version = "2.0";
 static const char *const lsm6dsr_flip_down_detection_description = "Flip-down detection";
 
 static const struct mems_conf_application lsm6dsr_flip_down_detection_application = {
-    .name = "Configuration Converter Tool",
-    .version = "1.0"
+    .name = NULL,
+    .version = NULL
 };
 
 static const char *const lsm6dsr_flip_down_detection_date = NULL;
