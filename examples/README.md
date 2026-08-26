@@ -82,6 +82,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 * ISM6HG256X
 	* [fourd_orientation_detection](./fourd_orientation_detection/ism6hg256x)
 	* [free_fall_detection](./free_fall_detection/ism6hg256x)
+	* [highg_automatic_toggle](./highg_automatic_toggle/ism6hg256x)
 	* [lift_detection](./lift_detection/ism6hg256x)
 	* [motion_stationary_detection](./motion_stationary_detection/ism6hg256x)
 	* [peak_tracking](./peak_tracking/ism6hg256x)
@@ -240,6 +241,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsv320x)
 	* [free_fall_detection](./free_fall_detection/lsm6dsv320x)
 	* [glance_detection](./glance_detection/lsm6dsv320x)
+	* [highg_automatic_toggle](./highg_automatic_toggle/lsm6dsv320x)
 	* [jiggle_detection](./jiggle_detection/lsm6dsv320x)
 	* [lift_detection](./lift_detection/lsm6dsv320x)
 	* [motion_stationary_detection](./motion_stationary_detection/lsm6dsv320x)
@@ -271,6 +273,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsv80x)
 	* [free_fall_detection](./free_fall_detection/lsm6dsv80x)
 	* [glance_detection](./glance_detection/lsm6dsv80x)
+	* [highg_automatic_toggle](./highg_automatic_toggle/lsm6dsv80x)
 	* [jiggle_detection](./jiggle_detection/lsm6dsv80x)
 	* [lift_detection](./lift_detection/lsm6dsv80x)
 	* [motion_stationary_detection](./motion_stationary_detection/lsm6dsv80x)

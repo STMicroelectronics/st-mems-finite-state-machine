@@ -284,6 +284,18 @@
 					]
 				},
 				{
+					"name": "High-g Automatic Toggle",
+					"path": "./highg_automatic_toggle/ism6hg256x",
+					"readme": "./highg_automatic_toggle/ism6hg256x/README.md",
+					"application_readme": "./highg_automatic_toggle/README.md",
+					"json_configurations": [
+						"./highg_automatic_toggle/ism6hg256x/ism6hg256x_highg_automatic_toggle.json"
+					],
+					"c_header_file_configurations": [
+						"./highg_automatic_toggle/ism6hg256x/ism6hg256x_highg_automatic_toggle.h"
+					]
+				},
+				{
 					"name": "Lift detection",
 					"path": "./lift_detection/ism6hg256x",
 					"readme": "./lift_detection/ism6hg256x/README.md",
@@ -2103,6 +2115,18 @@
 					]
 				},
 				{
+					"name": "High-g Automatic Toggle",
+					"path": "./highg_automatic_toggle/lsm6dsv320x",
+					"readme": "./highg_automatic_toggle/lsm6dsv320x/README.md",
+					"application_readme": "./highg_automatic_toggle/README.md",
+					"json_configurations": [
+						"./highg_automatic_toggle/lsm6dsv320x/lsm6dsv320x_highg_automatic_toggle.json"
+					],
+					"c_header_file_configurations": [
+						"./highg_automatic_toggle/lsm6dsv320x/lsm6dsv320x_highg_automatic_toggle.h"
+					]
+				},
+				{
 					"name": "Jiggle detection",
 					"path": "./jiggle_detection/lsm6dsv320x",
 					"readme": "./jiggle_detection/lsm6dsv320x/README.md",
@@ -2462,6 +2486,18 @@
 					],
 					"c_header_file_configurations": [
 						"./glance_detection/lsm6dsv80x/lsm6dsv80x_glance_detection.h"
+					]
+				},
+				{
+					"name": "High-g Automatic Toggle",
+					"path": "./highg_automatic_toggle/lsm6dsv80x",
+					"readme": "./highg_automatic_toggle/lsm6dsv80x/README.md",
+					"application_readme": "./highg_automatic_toggle/README.md",
+					"json_configurations": [
+						"./highg_automatic_toggle/lsm6dsv80x/lsm6dsv80x_highg_automatic_toggle.json"
+					],
+					"c_header_file_configurations": [
+						"./highg_automatic_toggle/lsm6dsv80x/lsm6dsv80x_highg_automatic_toggle.h"
 					]
 				},
 				{
