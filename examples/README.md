@@ -89,6 +89,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [pick_up_detection](./pick_up_detection/ism6hg256x)
 	* [shake_detection](./shake_detection/ism6hg256x)
 * LIS2DUX12
+	* [double_clench_detection](./double_clench_detection/lis2dux12)
 	* [ecigarette](./ecigarette/lis2dux12)
 	* [flip_down_detection](./flip_down_detection/lis2dux12)
 	* [flip_up_detection](./flip_up_detection/lis2dux12)
@@ -103,6 +104,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_navigation](./wrist_navigation/lis2dux12)
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lis2dux12)
 * LIS2DUXS12
+	* [double_clench_detection](./double_clench_detection/lis2duxs12)
 	* [flip_down_detection](./flip_down_detection/lis2duxs12)
 	* [flip_up_detection](./flip_up_detection/lis2duxs12)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lis2duxs12)
@@ -116,6 +118,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_navigation](./wrist_navigation/lis2duxs12)
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lis2duxs12)
 * LSM6DSO
+	* [double_clench_detection](./double_clench_detection/lsm6dso)
 	* [flip_down_detection](./flip_down_detection/lsm6dso)
 	* [flip_up_detection](./flip_up_detection/lsm6dso)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dso)
@@ -143,6 +146,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [motion_stationary_detection](./motion_stationary_detection/lsm6dso32x)
 	* [shake_detection](./shake_detection/lsm6dso32x)
 * LSM6DSOX
+	* [double_clench_detection](./double_clench_detection/lsm6dsox)
 	* [flip_down_detection](./flip_down_detection/lsm6dsox)
 	* [flip_up_detection](./flip_up_detection/lsm6dsox)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsox)
@@ -158,6 +162,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lsm6dsox)
 	* [wrist_tilt_detection_xl_gy](./wrist_tilt_detection_xl_gy/lsm6dsox)
 * LSM6DSR
+	* [double_clench_detection](./double_clench_detection/lsm6dsr)
 	* [flip_down_detection](./flip_down_detection/lsm6dsr)
 	* [flip_up_detection](./flip_up_detection/lsm6dsr)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsr)
@@ -180,6 +185,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lsm6dsrx)
 	* [wrist_tilt_detection_xl_gy](./wrist_tilt_detection_xl_gy/lsm6dsrx)
 * LSM6DSV
+	* [double_clench_detection](./double_clench_detection/lsm6dsv)
 	* [flip_down_detection](./flip_down_detection/lsm6dsv)
 	* [flip_up_detection](./flip_up_detection/lsm6dsv)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsv)
@@ -221,6 +227,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lsm6dsv16bx)
 	* [wrist_tilt_detection_xl_gy](./wrist_tilt_detection_xl_gy/lsm6dsv16bx)
 * LSM6DSV16X
+	* [double_clench_detection](./double_clench_detection/lsm6dsv16x)
 	* [flip_down_detection](./flip_down_detection/lsm6dsv16x)
 	* [flip_up_detection](./flip_up_detection/lsm6dsv16x)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsv16x)
@@ -236,6 +243,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lsm6dsv16x)
 	* [wrist_tilt_detection_xl_gy](./wrist_tilt_detection_xl_gy/lsm6dsv16x)
 * LSM6DSV320X
+	* [double_clench_detection](./double_clench_detection/lsm6dsv320x)
 	* [flip_down_detection](./flip_down_detection/lsm6dsv320x)
 	* [flip_up_detection](./flip_up_detection/lsm6dsv320x)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsv320x)
@@ -253,6 +261,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lsm6dsv320x)
 	* [wrist_tilt_detection_xl_gy](./wrist_tilt_detection_xl_gy/lsm6dsv320x)
 * LSM6DSV32X
+	* [double_clench_detection](./double_clench_detection/lsm6dsv32x)
 	* [flip_down_detection](./flip_down_detection/lsm6dsv32x)
 	* [flip_up_detection](./flip_up_detection/lsm6dsv32x)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsv32x)
@@ -268,6 +277,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lsm6dsv32x)
 	* [wrist_tilt_detection_xl_gy](./wrist_tilt_detection_xl_gy/lsm6dsv32x)
 * LSM6DSV80X
+	* [double_clench_detection](./double_clench_detection/lsm6dsv80x)
 	* [flip_down_detection](./flip_down_detection/lsm6dsv80x)
 	* [flip_up_detection](./flip_up_detection/lsm6dsv80x)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lsm6dsv80x)

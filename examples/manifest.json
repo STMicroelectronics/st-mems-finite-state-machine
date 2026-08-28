@@ -361,6 +361,18 @@
 			"name": "LIS2DUX12",
 			"examples": [
 				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lis2dux12",
+					"readme": "./double_clench_detection/lis2dux12/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lis2dux12/lis2dux12_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lis2dux12/lis2dux12_double_clench_detection.h"
+					]
+				},
+				{
 					"name": "E-cigarette",
 					"path": "./ecigarette/lis2dux12",
 					"readme": "./ecigarette/lis2dux12/README.md",
@@ -522,6 +534,18 @@
 			"name": "LIS2DUXS12",
 			"examples": [
 				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lis2duxs12",
+					"readme": "./double_clench_detection/lis2duxs12/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lis2duxs12/lis2duxs12_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lis2duxs12/lis2duxs12_double_clench_detection.h"
+					]
+				},
+				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lis2duxs12",
 					"readme": "./flip_down_detection/lis2duxs12/README.md",
@@ -670,6 +694,18 @@
 		{
 			"name": "LSM6DSO",
 			"examples": [
+				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dso",
+					"readme": "./double_clench_detection/lsm6dso/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dso/lsm6dso_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dso/lsm6dso_double_clench_detection.h"
+					]
+				},
 				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lsm6dso",
@@ -976,6 +1012,18 @@
 			"name": "LSM6DSOX",
 			"examples": [
 				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dsox",
+					"readme": "./double_clench_detection/lsm6dsox/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dsox/lsm6dsox_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dsox/lsm6dsox_double_clench_detection.h"
+					]
+				},
+				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lsm6dsox",
 					"readme": "./flip_down_detection/lsm6dsox/README.md",
@@ -1150,6 +1198,18 @@
 		{
 			"name": "LSM6DSR",
 			"examples": [
+				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dsr",
+					"readme": "./double_clench_detection/lsm6dsr/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dsr/lsm6dsr_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dsr/lsm6dsr_double_clench_detection.h"
+					]
+				},
 				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lsm6dsr",
@@ -1402,6 +1462,18 @@
 		{
 			"name": "LSM6DSV",
 			"examples": [
+				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dsv",
+					"readme": "./double_clench_detection/lsm6dsv/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dsv/lsm6dsv_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dsv/lsm6dsv_double_clench_detection.h"
+					]
+				},
 				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lsm6dsv",
@@ -1880,6 +1952,18 @@
 			"name": "LSM6DSV16X",
 			"examples": [
 				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dsv16x",
+					"readme": "./double_clench_detection/lsm6dsv16x/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dsv16x/lsm6dsv16x_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dsv16x/lsm6dsv16x_double_clench_detection.h"
+					]
+				},
+				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lsm6dsv16x",
 					"readme": "./flip_down_detection/lsm6dsv16x/README.md",
@@ -2054,6 +2138,18 @@
 		{
 			"name": "LSM6DSV320X",
 			"examples": [
+				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dsv320x",
+					"readme": "./double_clench_detection/lsm6dsv320x/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dsv320x/lsm6dsv320x_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dsv320x/lsm6dsv320x_double_clench_detection.h"
+					]
+				},
 				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lsm6dsv320x",
@@ -2254,6 +2350,18 @@
 			"name": "LSM6DSV32X",
 			"examples": [
 				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dsv32x",
+					"readme": "./double_clench_detection/lsm6dsv32x/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dsv32x/lsm6dsv32x_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dsv32x/lsm6dsv32x_double_clench_detection.h"
+					]
+				},
+				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lsm6dsv32x",
 					"readme": "./flip_down_detection/lsm6dsv32x/README.md",
@@ -2428,6 +2536,18 @@
 		{
 			"name": "LSM6DSV80X",
 			"examples": [
+				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dsv80x",
+					"readme": "./double_clench_detection/lsm6dsv80x/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dsv80x/lsm6dsv80x_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dsv80x/lsm6dsv80x_double_clench_detection.h"
+					]
+				},
 				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lsm6dsv80x",
