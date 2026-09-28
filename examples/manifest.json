@@ -546,6 +546,18 @@
 					]
 				},
 				{
+					"name": "E-cigarette",
+					"path": "./ecigarette/lis2duxs12",
+					"readme": "./ecigarette/lis2duxs12/README.md",
+					"application_readme": "./ecigarette/README.md",
+					"json_configurations": [
+						"./ecigarette/lis2duxs12/lis2duxs12_ecigarette.json"
+					],
+					"c_header_file_configurations": [
+						"./ecigarette/lis2duxs12/lis2duxs12_ecigarette.h"
+					]
+				},
+				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/lis2duxs12",
 					"readme": "./flip_down_detection/lis2duxs12/README.md",
@@ -2807,6 +2819,18 @@
 		{
 			"name": "ST1VAFE3BX",
 			"examples": [
+				{
+					"name": "E-cigarette",
+					"path": "./ecigarette/st1vafe3bx",
+					"readme": "./ecigarette/st1vafe3bx/README.md",
+					"application_readme": "./ecigarette/README.md",
+					"json_configurations": [
+						"./ecigarette/st1vafe3bx/st1vafe3bx_ecigarette.json"
+					],
+					"c_header_file_configurations": [
+						"./ecigarette/st1vafe3bx/st1vafe3bx_ecigarette.h"
+					]
+				},
 				{
 					"name": "Flip-down detection",
 					"path": "./flip_down_detection/st1vafe3bx",

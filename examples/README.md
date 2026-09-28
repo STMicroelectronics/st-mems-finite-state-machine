@@ -105,6 +105,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lis2dux12)
 * LIS2DUXS12
 	* [double_clench_detection](./double_clench_detection/lis2duxs12)
+	* [ecigarette](./ecigarette/lis2duxs12)
 	* [flip_down_detection](./flip_down_detection/lis2duxs12)
 	* [flip_up_detection](./flip_up_detection/lis2duxs12)
 	* [fourd_orientation_detection](./fourd_orientation_detection/lis2duxs12)
@@ -300,6 +301,7 @@ To test an FSM example in MEMS Studio with the SensorTile.box PRO / STWIN.box bo
 	* [wrist_tilt_detection_xl](./wrist_tilt_detection_xl/lsm6dsv80x)
 	* [wrist_tilt_detection_xl_gy](./wrist_tilt_detection_xl_gy/lsm6dsv80x)
 * ST1VAFE3BX
+	* [ecigarette](./ecigarette/st1vafe3bx)
 	* [flip_down_detection](./flip_down_detection/st1vafe3bx)
 	* [flip_up_detection](./flip_up_detection/st1vafe3bx)
 	* [fourd_orientation_detection](./fourd_orientation_detection/st1vafe3bx)
