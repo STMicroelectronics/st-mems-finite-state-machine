@@ -1583,6 +1583,18 @@
 					]
 				},
 				{
+					"name": "Smart ring",
+					"path": "./smart_ring/lsm6dsv",
+					"readme": "./smart_ring/lsm6dsv/README.md",
+					"application_readme": "./smart_ring/README.md",
+					"json_configurations": [
+						"./smart_ring/lsm6dsv/lsm6dsv_smart_ring.json"
+					],
+					"c_header_file_configurations": [
+						"./smart_ring/lsm6dsv/lsm6dsv_smart_ring.h"
+					]
+				},
+				{
 					"name": "Wrist navigation",
 					"path": "./wrist_navigation/lsm6dsv",
 					"readme": "./wrist_navigation/lsm6dsv/README.md",
@@ -2096,6 +2108,18 @@
 					]
 				},
 				{
+					"name": "Smart ring",
+					"path": "./smart_ring/lsm6dsv16x",
+					"readme": "./smart_ring/lsm6dsv16x/README.md",
+					"application_readme": "./smart_ring/README.md",
+					"json_configurations": [
+						"./smart_ring/lsm6dsv16x/lsm6dsv16x_smart_ring.json"
+					],
+					"c_header_file_configurations": [
+						"./smart_ring/lsm6dsv16x/lsm6dsv16x_smart_ring.h"
+					]
+				},
+				{
 					"name": "Wrist navigation",
 					"path": "./wrist_navigation/lsm6dsv16x",
 					"readme": "./wrist_navigation/lsm6dsv16x/README.md",
@@ -2307,6 +2331,18 @@
 					]
 				},
 				{
+					"name": "Smart ring",
+					"path": "./smart_ring/lsm6dsv320x",
+					"readme": "./smart_ring/lsm6dsv320x/README.md",
+					"application_readme": "./smart_ring/README.md",
+					"json_configurations": [
+						"./smart_ring/lsm6dsv320x/lsm6dsv320x_smart_ring.json"
+					],
+					"c_header_file_configurations": [
+						"./smart_ring/lsm6dsv320x/lsm6dsv320x_smart_ring.h"
+					]
+				},
+				{
 					"name": "Wrist navigation",
 					"path": "./wrist_navigation/lsm6dsv320x",
 					"readme": "./wrist_navigation/lsm6dsv320x/README.md",
@@ -2491,6 +2527,18 @@
 					],
 					"c_header_file_configurations": [
 						"./shake_detection/lsm6dsv32x/lsm6dsv32x_shake_detection.h"
+					]
+				},
+				{
+					"name": "Smart ring",
+					"path": "./smart_ring/lsm6dsv32x",
+					"readme": "./smart_ring/lsm6dsv32x/README.md",
+					"application_readme": "./smart_ring/README.md",
+					"json_configurations": [
+						"./smart_ring/lsm6dsv32x/lsm6dsv32x_smart_ring.json"
+					],
+					"c_header_file_configurations": [
+						"./smart_ring/lsm6dsv32x/lsm6dsv32x_smart_ring.h"
 					]
 				},
 				{
@@ -2702,6 +2750,18 @@
 					],
 					"c_header_file_configurations": [
 						"./shake_detection/lsm6dsv80x/lsm6dsv80x_shake_detection.h"
+					]
+				},
+				{
+					"name": "Smart ring",
+					"path": "./smart_ring/lsm6dsv80x",
+					"readme": "./smart_ring/lsm6dsv80x/README.md",
+					"application_readme": "./smart_ring/README.md",
+					"json_configurations": [
+						"./smart_ring/lsm6dsv80x/lsm6dsv80x_smart_ring.json"
+					],
+					"c_header_file_configurations": [
+						"./smart_ring/lsm6dsv80x/lsm6dsv80x_smart_ring.h"
 					]
 				},
 				{
