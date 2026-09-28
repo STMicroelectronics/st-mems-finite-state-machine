@@ -358,6 +358,107 @@
 			]
 		},
 		{
+			"name": "ISM6HGK256X",
+			"examples": [
+				{
+					"name": "4D orientation detection",
+					"path": "./fourd_orientation_detection/ism6hgk256x",
+					"readme": "./fourd_orientation_detection/ism6hgk256x/README.md",
+					"application_readme": "./fourd_orientation_detection/README.md",
+					"json_configurations": [
+						"./fourd_orientation_detection/ism6hgk256x/ism6hgk256x_fourd_orientation_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./fourd_orientation_detection/ism6hgk256x/ism6hgk256x_fourd_orientation_detection.h"
+					]
+				},
+				{
+					"name": "Free-fall detection",
+					"path": "./free_fall_detection/ism6hgk256x",
+					"readme": "./free_fall_detection/ism6hgk256x/README.md",
+					"application_readme": "./free_fall_detection/README.md",
+					"json_configurations": [
+						"./free_fall_detection/ism6hgk256x/ism6hgk256x_free_fall_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./free_fall_detection/ism6hgk256x/ism6hgk256x_free_fall_detection.h"
+					]
+				},
+				{
+					"name": "High-g Automatic Toggle",
+					"path": "./highg_automatic_toggle/ism6hgk256x",
+					"readme": "./highg_automatic_toggle/ism6hgk256x/README.md",
+					"application_readme": "./highg_automatic_toggle/README.md",
+					"json_configurations": [
+						"./highg_automatic_toggle/ism6hgk256x/ism6hgk256x_highg_automatic_toggle.json"
+					],
+					"c_header_file_configurations": [
+						"./highg_automatic_toggle/ism6hgk256x/ism6hgk256x_highg_automatic_toggle.h"
+					]
+				},
+				{
+					"name": "Lift detection",
+					"path": "./lift_detection/ism6hgk256x",
+					"readme": "./lift_detection/ism6hgk256x/README.md",
+					"application_readme": "./lift_detection/README.md",
+					"json_configurations": [
+						"./lift_detection/ism6hgk256x/ism6hgk256x_lift_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./lift_detection/ism6hgk256x/ism6hgk256x_lift_detection.h"
+					]
+				},
+				{
+					"name": "Motion-stationary detection",
+					"path": "./motion_stationary_detection/ism6hgk256x",
+					"readme": "./motion_stationary_detection/ism6hgk256x/README.md",
+					"application_readme": "./motion_stationary_detection/README.md",
+					"json_configurations": [
+						"./motion_stationary_detection/ism6hgk256x/ism6hgk256x_motion_stationary_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./motion_stationary_detection/ism6hgk256x/ism6hgk256x_motion_stationary_detection.h"
+					]
+				},
+				{
+					"name": "Peak tracking",
+					"path": "./peak_tracking/ism6hgk256x",
+					"readme": "./peak_tracking/ism6hgk256x/README.md",
+					"application_readme": "./peak_tracking/README.md",
+					"json_configurations": [
+						"./peak_tracking/ism6hgk256x/ism6hgk256x_peak_tracking.json"
+					],
+					"c_header_file_configurations": [
+						"./peak_tracking/ism6hgk256x/ism6hgk256x_peak_tracking.h"
+					]
+				},
+				{
+					"name": "Pick-up detection",
+					"path": "./pick_up_detection/ism6hgk256x",
+					"readme": "./pick_up_detection/ism6hgk256x/README.md",
+					"application_readme": "./pick_up_detection/README.md",
+					"json_configurations": [
+						"./pick_up_detection/ism6hgk256x/ism6hgk256x_pick_up_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./pick_up_detection/ism6hgk256x/ism6hgk256x_pick_up_detection.h"
+					]
+				},
+				{
+					"name": "Shake detection",
+					"path": "./shake_detection/ism6hgk256x",
+					"readme": "./shake_detection/ism6hgk256x/README.md",
+					"application_readme": "./shake_detection/README.md",
+					"json_configurations": [
+						"./shake_detection/ism6hgk256x/ism6hgk256x_shake_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./shake_detection/ism6hgk256x/ism6hgk256x_shake_detection.h"
+					]
+				}
+			]
+		},
+		{
 			"name": "LIS2DUX12",
 			"examples": [
 				{
@@ -699,6 +800,229 @@
 					],
 					"c_header_file_configurations": [
 						"./wrist_tilt_detection_xl/lis2duxs12/lis2duxs12_wrist_tilt_xl.h"
+					]
+				}
+			]
+		},
+		{
+			"name": "LSM6DSK320X",
+			"examples": [
+				{
+					"name": "Double clench detection",
+					"path": "./double_clench_detection/lsm6dsk320x",
+					"readme": "./double_clench_detection/lsm6dsk320x/README.md",
+					"application_readme": "./double_clench_detection/README.md",
+					"json_configurations": [
+						"./double_clench_detection/lsm6dsk320x/lsm6dsk320x_double_clench_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./double_clench_detection/lsm6dsk320x/lsm6dsk320x_double_clench_detection.h"
+					]
+				},
+				{
+					"name": "Flip-down detection",
+					"path": "./flip_down_detection/lsm6dsk320x",
+					"readme": "./flip_down_detection/lsm6dsk320x/README.md",
+					"application_readme": "./flip_down_detection/README.md",
+					"json_configurations": [
+						"./flip_down_detection/lsm6dsk320x/lsm6dsk320x_flip_down_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./flip_down_detection/lsm6dsk320x/lsm6dsk320x_flip_down_detection.h"
+					]
+				},
+				{
+					"name": "Flip-up detection",
+					"path": "./flip_up_detection/lsm6dsk320x",
+					"readme": "./flip_up_detection/lsm6dsk320x/README.md",
+					"application_readme": "./flip_up_detection/README.md",
+					"json_configurations": [
+						"./flip_up_detection/lsm6dsk320x/lsm6dsk320x_flip_up_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./flip_up_detection/lsm6dsk320x/lsm6dsk320x_flip_up_detection.h"
+					]
+				},
+				{
+					"name": "4D orientation detection",
+					"path": "./fourd_orientation_detection/lsm6dsk320x",
+					"readme": "./fourd_orientation_detection/lsm6dsk320x/README.md",
+					"application_readme": "./fourd_orientation_detection/README.md",
+					"json_configurations": [
+						"./fourd_orientation_detection/lsm6dsk320x/lsm6dsk320x_fourd_orientation_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./fourd_orientation_detection/lsm6dsk320x/lsm6dsk320x_fourd_orientation_detection.h"
+					]
+				},
+				{
+					"name": "Free-fall detection",
+					"path": "./free_fall_detection/lsm6dsk320x",
+					"readme": "./free_fall_detection/lsm6dsk320x/README.md",
+					"application_readme": "./free_fall_detection/README.md",
+					"json_configurations": [
+						"./free_fall_detection/lsm6dsk320x/lsm6dsk320x_free_fall_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./free_fall_detection/lsm6dsk320x/lsm6dsk320x_free_fall_detection.h"
+					]
+				},
+				{
+					"name": "Glance detection",
+					"path": "./glance_detection/lsm6dsk320x",
+					"readme": "./glance_detection/lsm6dsk320x/README.md",
+					"application_readme": "./glance_detection/README.md",
+					"json_configurations": [
+						"./glance_detection/lsm6dsk320x/lsm6dsk320x_glance_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./glance_detection/lsm6dsk320x/lsm6dsk320x_glance_detection.h"
+					]
+				},
+				{
+					"name": "High-g Automatic Toggle",
+					"path": "./highg_automatic_toggle/lsm6dsk320x",
+					"readme": "./highg_automatic_toggle/lsm6dsk320x/README.md",
+					"application_readme": "./highg_automatic_toggle/README.md",
+					"json_configurations": [
+						"./highg_automatic_toggle/lsm6dsk320x/lsm6dsk320x_highg_automatic_toggle.json"
+					],
+					"c_header_file_configurations": [
+						"./highg_automatic_toggle/lsm6dsk320x/lsm6dsk320x_highg_automatic_toggle.h"
+					]
+				},
+				{
+					"name": "Jiggle detection",
+					"path": "./jiggle_detection/lsm6dsk320x",
+					"readme": "./jiggle_detection/lsm6dsk320x/README.md",
+					"application_readme": "./jiggle_detection/README.md",
+					"json_configurations": [
+						"./jiggle_detection/lsm6dsk320x/lsm6dsk320x_jiggle_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./jiggle_detection/lsm6dsk320x/lsm6dsk320x_jiggle_detection.h"
+					]
+				},
+				{
+					"name": "Lift detection",
+					"path": "./lift_detection/lsm6dsk320x",
+					"readme": "./lift_detection/lsm6dsk320x/README.md",
+					"application_readme": "./lift_detection/README.md",
+					"json_configurations": [
+						"./lift_detection/lsm6dsk320x/lsm6dsk320x_lift_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./lift_detection/lsm6dsk320x/lsm6dsk320x_lift_detection.h"
+					]
+				},
+				{
+					"name": "Motion-stationary detection",
+					"path": "./motion_stationary_detection/lsm6dsk320x",
+					"readme": "./motion_stationary_detection/lsm6dsk320x/README.md",
+					"application_readme": "./motion_stationary_detection/README.md",
+					"json_configurations": [
+						"./motion_stationary_detection/lsm6dsk320x/lsm6dsk320x_motion_stationary_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./motion_stationary_detection/lsm6dsk320x/lsm6dsk320x_motion_stationary_detection.h"
+					]
+				},
+				{
+					"name": "Peak tracking",
+					"path": "./peak_tracking/lsm6dsk320x",
+					"readme": "./peak_tracking/lsm6dsk320x/README.md",
+					"application_readme": "./peak_tracking/README.md",
+					"json_configurations": [
+						"./peak_tracking/lsm6dsk320x/lsm6dsk320x_peak_tracking.json"
+					],
+					"c_header_file_configurations": [
+						"./peak_tracking/lsm6dsk320x/lsm6dsk320x_peak_tracking.h"
+					]
+				},
+				{
+					"name": "Phone-to-ear detection",
+					"path": "./phone_to_ear_detection/lsm6dsk320x",
+					"readme": "./phone_to_ear_detection/lsm6dsk320x/README.md",
+					"application_readme": "./phone_to_ear_detection/README.md",
+					"json_configurations": [
+						"./phone_to_ear_detection/lsm6dsk320x/lsm6dsk320x_phone_to_ear_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./phone_to_ear_detection/lsm6dsk320x/lsm6dsk320x_phone_to_ear_detection.h"
+					]
+				},
+				{
+					"name": "Pick-up detection",
+					"path": "./pick_up_detection/lsm6dsk320x",
+					"readme": "./pick_up_detection/lsm6dsk320x/README.md",
+					"application_readme": "./pick_up_detection/README.md",
+					"json_configurations": [
+						"./pick_up_detection/lsm6dsk320x/lsm6dsk320x_pick_up_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./pick_up_detection/lsm6dsk320x/lsm6dsk320x_pick_up_detection.h"
+					]
+				},
+				{
+					"name": "Shake detection",
+					"path": "./shake_detection/lsm6dsk320x",
+					"readme": "./shake_detection/lsm6dsk320x/README.md",
+					"application_readme": "./shake_detection/README.md",
+					"json_configurations": [
+						"./shake_detection/lsm6dsk320x/lsm6dsk320x_shake_detection.json"
+					],
+					"c_header_file_configurations": [
+						"./shake_detection/lsm6dsk320x/lsm6dsk320x_shake_detection.h"
+					]
+				},
+				{
+					"name": "Smart ring",
+					"path": "./smart_ring/lsm6dsk320x",
+					"readme": "./smart_ring/lsm6dsk320x/README.md",
+					"application_readme": "./smart_ring/README.md",
+					"json_configurations": [
+						"./smart_ring/lsm6dsk320x/lsm6dsk320x_smart_ring.json"
+					],
+					"c_header_file_configurations": [
+						"./smart_ring/lsm6dsk320x/lsm6dsk320x_smart_ring.h"
+					]
+				},
+				{
+					"name": "Wrist navigation",
+					"path": "./wrist_navigation/lsm6dsk320x",
+					"readme": "./wrist_navigation/lsm6dsk320x/README.md",
+					"application_readme": "./wrist_navigation/README.md",
+					"json_configurations": [
+						"./wrist_navigation/lsm6dsk320x/lsm6dsk320x_wrist_navigation.json"
+					],
+					"c_header_file_configurations": [
+						"./wrist_navigation/lsm6dsk320x/lsm6dsk320x_wrist_navigation.h"
+					]
+				},
+				{
+					"name": "Wrist tilt detection with accelerometer only",
+					"path": "./wrist_tilt_detection_xl/lsm6dsk320x",
+					"readme": "./wrist_tilt_detection_xl/lsm6dsk320x/README.md",
+					"application_readme": "./wrist_tilt_detection_xl/README.md",
+					"json_configurations": [
+						"./wrist_tilt_detection_xl/lsm6dsk320x/lsm6dsk320x_wrist_tilt_xl.json"
+					],
+					"c_header_file_configurations": [
+						"./wrist_tilt_detection_xl/lsm6dsk320x/lsm6dsk320x_wrist_tilt_xl.h"
+					]
+				},
+				{
+					"name": "Wrist tilt detection with accelerometer and gyroscope",
+					"path": "./wrist_tilt_detection_xl_gy/lsm6dsk320x",
+					"readme": "./wrist_tilt_detection_xl_gy/lsm6dsk320x/README.md",
+					"application_readme": "./wrist_tilt_detection_xl_gy/README.md",
+					"json_configurations": [
+						"./wrist_tilt_detection_xl_gy/lsm6dsk320x/lsm6dsk320x_wrist_tilt_xl_gy_left.json",
+						"./wrist_tilt_detection_xl_gy/lsm6dsk320x/lsm6dsk320x_wrist_tilt_xl_gy_right.json"
+					],
+					"c_header_file_configurations": [
+						"./wrist_tilt_detection_xl_gy/lsm6dsk320x/lsm6dsk320x_wrist_tilt_xl_gy_left.h",
+						"./wrist_tilt_detection_xl_gy/lsm6dsk320x/lsm6dsk320x_wrist_tilt_xl_gy_right.h"
 					]
 				}
 			]
